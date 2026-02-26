@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋 I'm Abdullah
 
-<!--
-**Dandarawyy/dandarawyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🚀 Passionate about Web Development & Software Engineering
+📍 Based in Egypt
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔹 I enjoy building full-stack web applications
+
+  🔹 Interested in backend systems and databases
+
+  🔹 Always learning and improving my coding skills
+
+  🔹 Love turning ideas into real projects
+
+🛠 Tech Stack
+
+  🔹 Languages: JavaScript, Python, C++
+
+  🔹 Frontend: HTML, CSS, React, Typescript, Tailwind
+
+  🔹 Backend: Node.js, Express
+
+  🔹 Database: MySQL, MongoDB
+
+  🔹 Tools: Git, GitHub, VS Code
+
+📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/abdullah-dandarawy-4bba20323/
+
+📧 Email: Abdullah.Dandarawy@gmail.com
