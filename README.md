@@ -1,18 +1,9 @@
-Hi there 👋 I'm Abdullah
+Hello there 👋 
 
-💻 Computer Science Student
-🚀 Passionate about Web Development & Software Engineering
-📍 Based in Egypt
 
-👨‍💻 About Me
+I'm Abdullah, a Computer Science Student Passionate about Web Development & Software Engineering Based in Egypt.
 
-  🔹 I enjoy building full-stack web applications
-
-  🔹 Interested in backend systems and databases
-
-  🔹 Always learning and improving my coding skills
-
-  🔹 Love turning ideas into real projects
+I'm currently working on multiple projects for my portofolio + the Graduation Project
 
 🛠 Tech Stack
 
@@ -28,6 +19,6 @@ Hi there 👋 I'm Abdullah
 
 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/abdullah-dandarawy-4bba20323/
+  🔹 LinkedIn: https://www.linkedin.com/in/abdullah-dandarawy-4bba20323/
 
-📧 Email: Abdullah.Dandarawy@gmail.com
+  🔹 Email: Abdullah.Dandarawy@gmail.com
